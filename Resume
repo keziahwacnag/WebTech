@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Resume</title>
+<h3>Wacnag, Keziah May G.</h3>
+</head>
+
+<aside>
+<h4>Menu Here</h4>
+<ul>
+<li>OBJECTIVE</li>
+<li>PERSONAL INFORMATION</li>
+<li>EDUCATION</li>
+<li>REFERENCES</li>
+</ul>
+</aside>
+
+<body>
+<section><strong>OBJECTIVE</strong></section>
+<p>To support professional workers to develop my potentials while performing the necessary tasks.</p>
+<div>
+
+<div>
+<section><strong>PERSONAL INFORMATION</strong></section>
+<p>
+<strong>Age </strong> 19 years old <br>
+<strong>Gender </strong> Female <br>
+<strong>Civil Status </strong> Filipino <br>
+<strong>Date of Birth: </strong> May 2, 2000 <br>
+<strong>Place of Birth: </strong> Sto. Nino Hospital <br>
+</p>
+</div>
+
+<div>
+<section><strong>EDUCATION</strong></section>
+<p>
+<strong>Senior High School </strong> Balbalayang National High School San Gabriel, La Union (2017-2018)<br>
+<strong>Junior High School </strong> Balbalayang National High School San Gabriel, La Union  (2015-2016)<br>
+<strong>Elementary </strong> Philex Mines Elementary School Inc. Padcal, Tuba, Benguet (2011-2012)<br>
+</p>
+</div>
+
+<div>
+<section><strong>REFERENCES</strong></section>
+<p>
+<strong>1. Mrs. Carmelita P. Dangle</strong>
+<br>0926-652-1952
+<br>Principal II
+<br>Balbalayang National High School<br>
+
+<br><strong>2. Ms. Aimee G. Awingan </strong>
+<br>0948-352-9567
+<br>Teacher
+<br>Balbalayang National High School<br>
+
+<br><strong>3. Mrs. Aileen A. Pingki</strong>
+<br>0975-954-7624
+<br>Teacher
+<br>Balbalayang National High School<br>
+</p>
+</div>
+
+<footer></footer>
+
+</body>
+</html>
